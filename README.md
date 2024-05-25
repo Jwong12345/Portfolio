@@ -1,7 +1,7 @@
 # Portfolio
 Portfolio Website that is constantly being updated with new skills that I learn and shows some demonstrations of some of the skills that I have. Currently has basic HTML and CSS used to create the website, WIP as Javascript is going to be added soon. 
 
-#Skills
+# Skills
 - HTML
 - CSS/Bootstrap
 - Javascript
