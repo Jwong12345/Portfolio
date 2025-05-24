@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio Website that is constantly being updated with new skills that I learn and shows some demonstrations of some of the skills that I have. Currently has basic HTML and CSS used to create the website, WIP as Javascript is going to be added soon. 
+Portfolio Website that I have created to show what I have learned and some demonstrations of some of the skills that I have. Currently it has Front End Development Skills, working on back end skills to develop into full stack.  
 
 # Skills
 - HTML
@@ -13,7 +13,7 @@ Portfolio Website that is constantly being updated with new skills that I learn 
 - Calculator Project
 - Screen Blur
 - Double Vertical Slider
-- E-commerce website recreation using Bootstrap
+- E-commerce website using Bootstrap
   
 # License
 Copyright @2024 Jo Cheung Wong
